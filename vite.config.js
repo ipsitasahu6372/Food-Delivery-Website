@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Food-Delivery-Website/'
+  base: '/Food-Delivery-Website/',   // 👈 repo name EXACT same
 })
